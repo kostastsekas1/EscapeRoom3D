@@ -3,7 +3,7 @@
 
 # Game Title
 
-![Game Title Banner](https://github.com/kostastsekas1/Platformer2DGame/blob/master/Pictures/MainScreen.png)
+![Game Title Banner](https://github.com/kostastsekas1/EscapeRoom3D/blob/master/Pictures/MainMenu.png)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -49,18 +49,18 @@ or
 
 ## Controls
 
-![Controls](https://github.com/kostastsekas1/Platformer2DGame/blob/master/Pictures/Controls.png)
+![Controls](https://github.com/kostastsekas1/EscapeRoom3D/blob/master/Pictures/Controls.png)
 ## Pictures
 
 ### Saveslot Mechanism
-![Saveslots](https://github.com/kostastsekas1/Platformer2DGame/blob/master/Pictures/Saveslots.png)
-### Highlighted area for regeneration of platforms
-![HighlightedArea](https://github.com/kostastsekas1/Platformer2DGame/blob/master/Pictures/HighlightedArea.png)
-### UI and Player
-![ UI and Player](https://github.com/kostastsekas1/Platformer2DGame/blob/master/Pictures/Ui%26player.png)
+![Saveslots](https://github.com/kostastsekas1/EscapeRoom3D/blob/master/Pictures/Saveslots.png)
+### Padlock
+![Padlock](https://github.com/kostastsekas1/EscapeRoom3D/blob/master/Pictures/Lock.png)
+### Paper interaction
+![ paper interact](https://github.com/kostastsekas1/EscapeRoom3D/blob/master/Pictures/PaperInteract.png)
 ### Whole level view from Unity editor
 
-![WholeLevelView](https://github.com/kostastsekas1/Platformer2DGame/blob/master/Pictures/WholeLevelView.png)
+![WholeLevelView](https://github.com/kostastsekas1/EscapeRoom3D/blob/master/Pictures/WholeLevelView.png)
 
 ## Credits
 - **Developer:** Konstantinos Tsekas
